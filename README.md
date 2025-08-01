@@ -36,3 +36,9 @@ Ingrese la IP de la víctima: 192.168.1.100
 [+] Bloqueando a 192.168.1.100 (router: 192.168.1.1, MAC real: 00:1A:2B:3C:4D:5E)
 [!] Ataque detenido. Restaurando conexión...
 [✔] Conexión restaurada con éxito.
+```
+## Actualización
+1. Se mejoró el escaneo.
+2. Detección del router automaticamente.
+3. Envio de paquetes con mayor frecuencia.
+4. Selección de IP o ingreso manualmente.
